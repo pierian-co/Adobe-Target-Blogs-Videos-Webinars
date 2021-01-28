@@ -3,7 +3,7 @@ This repository aim to provide a single location to share links to blogs, videos
 
 | Title      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
-| [Adobe Target Skill Builder - Personalization Strategies Using AI and Adobe Target](https://seminars.adobeconnect.com/psj63nmmz3nq/?proto=true )     | |  Webinar | Using Sensei for Personalisation |  Jason Hickey (Adobe)       |
+| [Adobe Target Skill Builder - Personalization Strategies Using AI and Adobe Target](https://seminars.adobeconnect.com/psj63nmmz3nq/?proto=true )     |  13-Aug-2020 |  Webinar | Using Sensei for Personalisation |  Adobe       |
 | [Adobe Target Skill Builder - On-device decisioning in Adobe Target](https://seminars.adobeconnect.com/pg4vu6gh8edn/?proto=true )   |  | Webinar | |   Adobe       |
 | [Analytics Demystified Adobe Target Profiles](https://analyticsdemystified.com/testing-and-optimization/profile-playbook-for-adobe-target/) | 18-Apr-2019 | Blog | Analytics Demystified Link explaining Profile scripts | Brian Hawkins |
 | [Adobe Target Skill Builder - How Adobe uses Sensei for Adobe Sensei AI to Personalize experiences](https://seminars.adobeconnect.com/pcngxbdg9rpk/?proto=true) | 4-Jun-2020 | Webinar | Using Sensei for Personalisation | Adobe |
