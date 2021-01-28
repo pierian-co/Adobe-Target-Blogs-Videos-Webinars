@@ -12,5 +12,6 @@ This repository aim to provide a single location to share links to blogs, videos
 | [Adobe Target Personalisation Industry Insides Webinar Series - Media, Publishing and Telecommunications](https://seminars.adobeconnect.com/pytpqtp8s1ca/?proto=true) | 14-May-2020 | Webinar | Industry specifc best practices | Adobe |
 | [Adobe Target Personalisation Industry Insides Webinar Series - Retail](https://seminars.adobeconnect.com/p6vbv57c0r5x/?proto=true) | 21-May-2020 | Webinar | Industry specifc best practices | Adobe |
 | [Adobe Target Personalisation Industry Insides Webinar Series - Financial Services and Insurance](https://seminars.adobeconnect.com/ppc3bv9s85jo/?proto=true) | 28-May-2020 | Webinar | Industry specifc best practices | Adobe |
+| [Adobe Target Skill Builder - Tips & Tricks to Take Full Advantage of Adobe Target](https://seminars.adobeconnect.com/ppapo38pj8qr/?proto=true)     |  28-Jul-2020 |  Webinar | Adobe Target Tips & Tricks |  Adobe       |
 
 
