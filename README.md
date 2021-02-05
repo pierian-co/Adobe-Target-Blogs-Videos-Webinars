@@ -3,7 +3,7 @@ This repository aim to provide a single location to share links to blogs, videos
 
 | Title      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
-| [Adobe Target Skill Builder - On-device decisioning in Adobe Target](https://seminars.adobeconnect.com/pg4vu6gh8edn/?proto=true )   |  | Webinar | |   Adobe       |
+| [Adobe Target Skill Builder - On-device decisioning in Adobe Target](https://seminars.adobeconnect.com/pg4vu6gh8edn/?proto=true )   | Server-side Optimisation | Webinar | |   Adobe       |
 | [Adobe Target Skill Builder - Personalization Strategies Using AI and Adobe Target](https://seminars.adobeconnect.com/psj63nmmz3nq/?proto=true )     |  13-Aug-2020 |  Webinar | Using Sensei for Personalisation |  Adobe       |
 | [Adobe Target Skill Builder - How HSBC leverages Adobe Target and A.I. tp personalize at scale](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true) | 6-Aug-2020 | Webinar | Using Sensei for Personalisation | Adobe |
 | [Adobe Target Skill Builder - Tips & Tricks to Take Full Advantage of Adobe Target](https://seminars.adobeconnect.com/ppapo38pj8qr/?proto=true)     |  28-Jul-2020 |  Webinar | Adobe Target Tips & Tricks |  Adobe       |
