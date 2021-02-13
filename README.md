@@ -1,8 +1,9 @@
 # adobe-target-blogs-videos-webinars
 This repository aim to provide a single location to share links to blogs, videos and webinars related to Adobe Target (hosted by both Adobe as well as non-Adobe professionals)
 
-| Title      | Date | Category  |Related to | Organiser/Author |
+| Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
+| [Taking the Lead in Delivering Next-Gen Personalization](https://blog.adobe.com/en/publish/2019/11/19/taking-the-lead-in-delivering-next-gen-personalization.html)   | 11-Nov-2020 | Blog |Server-side Optimisation |   Adobe       |
 | [Adobe Target Skill Builder - On-device decisioning in Adobe Target](https://seminars.adobeconnect.com/pg4vu6gh8edn/?proto=true )   | 1-Nov-2020 | Webinar |Server-side Optimisation |   Adobe       |
 | [Adobe Target Skill Builder - Personalization Strategies Using AI and Adobe Target](https://seminars.adobeconnect.com/psj63nmmz3nq/?proto=true )     |  13-Aug-2020 |  Webinar | Using Sensei for Personalisation |  Adobe       |
 | [Adobe Target Skill Builder - How HSBC leverages Adobe Target and A.I. tp personalize at scale](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true) | 6-Aug-2020 | Webinar | Using Sensei for Personalisation | Adobe |
