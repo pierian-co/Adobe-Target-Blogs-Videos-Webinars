@@ -3,6 +3,7 @@ This repository aim to provide a single location to share links to blogs, videos
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
+| [Adobe Target: Response Token and Debugging approach](https://medium.com/jayakrishnaap-digital-analytics-platform/adobe-target-response-token-and-debugging-approach-73d9fcc8cb56)   | 26-Feb-2021 | Blog |Response Tokens|   Jayakrishnaa Pharthasarathy |
 | [Adobe Target — On Device Decisioning](https://alex-bishop010.medium.com/adobe-target-on-device-decisioning-a829abd83f2c)   | 1-Dec-2020 | Blog |Server-side Optimisation |   Alex Bishop       |
 | [Taking the Lead in Delivering Next-Gen Personalization](https://blog.adobe.com/en/publish/2019/11/19/taking-the-lead-in-delivering-next-gen-personalization.html)   | 11-Nov-2020 | Blog |Server-side Optimisation |   Adobe       |
 | [Adobe Target Skill Builder - On-device decisioning in Adobe Target](https://seminars.adobeconnect.com/pg4vu6gh8edn/?proto=true )   | 1-Nov-2020 | Webinar |Server-side Optimisation |   Adobe       |
