@@ -1,5 +1,5 @@
 # Adobe Target - Webinars, Articles and Blogs collection
-![image](https://user-images.githubusercontent.com/71815964/111276700-82bde500-862f-11eb-8292-36e62d7f84e1.png)
+
 
 Adobe Target is one of the a few incredible tools to enable CXO (Customer Experience Optimsation), providing cutting edge capabilities such as AI-driven optimisation, Zero-latency server-side decisioning, seamless integration with AEM to name a few. To help learning the tool, Adobe Experience League provides a wealth of knowledge about the technicalities of how to use Adobe Target, many experts like Brian Hawkins, Alex Bishop, Jayakrishna also share their deep knowledge through their articles and blogs. Adobe also organises many webinars where product-managers explain features with business benefit examples.
     
