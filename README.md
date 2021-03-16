@@ -4,7 +4,7 @@ Adobe Target is one of the a few incredible tools to enable CXO (Customer Experi
 As an attempt to make these webinars, articles and blogs easily accessible to all Adobe Target enthusiasts, I have started collating links to such material on this GitHub page. I hope this will prove helpful to colleagues new to Adobe Target as well as seasoned experts.  While this collection is in its infancy, would appreciate feedback and contribute to grow it further.
 
 
-| **Title-URL      | Date | Category  |Related to | Organiser/Author** |
+| Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target: Response Token and Debugging approach](https://medium.com/jayakrishnaap-digital-analytics-platform/adobe-target-response-token-and-debugging-approach-73d9fcc8cb56)   | 26-Feb-2021 | Blog |Response Tokens|   [Jayakrishnaa Pharthasarathy](https://www.linkedin.com/in/jayakrishnaa-parthasarathy-60797111a/) |
 | [Adobe Target — On Device Decisioning](https://alex-bishop010.medium.com/adobe-target-on-device-decisioning-a829abd83f2c)   | 1-Dec-2020 | Blog |Server-side Optimisation |   [Alex Bishop](https://www.linkedin.com/in/alex-bishop-90a59971/)       |
