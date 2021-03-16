@@ -1,7 +1,10 @@
 # Adobe Target - Webinars, Articles and Blogs collection
-Adobe Target is one of the a few incredible tools to enable CXO (Customer Experience Optimsation), providing cutting edge capabilities such as AI-driven optimisation, Zero-latency server-side decisioning, seemless integration with AEM to name a few. While Adobe Experience League provides a wealth of knowledge about the technicalities of how to use Adobe Target, many experts like Brian Hawkins, Alex Bishop, Jayakrishnaa  also contribute with their deep knoweldge through their articles and blogs. Adobe also organises many webinars where product-managers explain features with business benefit examples.
+Adobe Target is one of the a few incredible tools to enable CXO (Customer Experience Optimsation), providing cutting edge capabilities such as AI-driven optimisation, Zero-latency server-side decisioning, seamless integration with AEM to name a few. To help learning the tool, Adobe Experience League provides a wealth of knowledge about the technicalities of how to use Adobe Target, many experts like Brian Hawkins, Alex Bishop, Jayakrishna also share their deep knowledge through their articles and blogs. Adobe also organises many webinars where product-managers explain features with business benefit examples.
     
-As an attempt to make these webinars, articles and blogs easily accessible to all Adobe Target enthusiats, I have started collating links to such material on a Github page (link). I hope this will prove helpful to colleagues new to Adobe Target as well as seasoned experts and would encourage to feedback and contribute.
+As an attempt to make these webinars, articles and blogs easily accessible to all Adobe Target enthusiasts, I have started collating links to such material on this GitHub page. I hope this will prove helpful to colleagues new to Adobe Target as well as seasoned experts.  While this collection is in its infancy, would appreciate feedback and contribute to grow it further.
+
+![image](https://user-images.githubusercontent.com/71815964/111276086-d8de5880-862e-11eb-9d66-11a65524b60d.png)
+
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
