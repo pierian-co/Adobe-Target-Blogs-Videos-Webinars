@@ -1,5 +1,7 @@
-# adobe-target-blogs-videos-webinars
-This repository aims to provide a single location to share links to blogs, videos and webinars related to Adobe Target (hosted by both Adobe as well as non-Adobe professionals)
+# Adobe Target - Webinars, Articles and Blogs collection
+Adobe Target is one of the a few incredible tools to enable CXO (Customer Experience Optimsation), providing cutting edge capabilities such as AI-driven optimisation, Zero-latency server-side decisioning, seemless integration with AEM to name a few. While Adobe Experience League provides a wealth of knowledge about the technicalities of how to use Adobe Target, many experts like Brian Hawkins, Alex Bishop, Jayakrishnaa  also contribute with their deep knoweldge through their articles and blogs. Adobe also organises many webinars where product-managers explain features with business benefit examples.
+    
+As an attempt to make these webinars, articles and blogs easily accessible to all Adobe Target enthusiats, I have started collating links to such material on a Github page (link). I hope this will prove helpful to colleagues new to Adobe Target as well as seasoned experts and would encourage to feedback and contribute.
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
