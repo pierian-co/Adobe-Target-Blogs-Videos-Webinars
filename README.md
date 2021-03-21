@@ -8,6 +8,7 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
+| [Integrate Third-Party Data Into Adobe Target Using Data Providers](https://www.abhinavpuri.com/blog/target-data-providers/)   | 14-Mar-2021 | Blog |Data Integration with Adobe Target|   [Abhinav Puri](https://www.linkedin.com/in/appuriabhi/) |
 | [Adobe Target: Response Token and Debugging approach](https://medium.com/jayakrishnaap-digital-analytics-platform/adobe-target-response-token-and-debugging-approach-73d9fcc8cb56)   | 26-Feb-2021 | Blog |Response Tokens|   [Jayakrishnaa Pharthasarathy](https://www.linkedin.com/in/jayakrishnaa-parthasarathy-60797111a/) |
 | [Adobe Target — On Device Decisioning](https://alex-bishop010.medium.com/adobe-target-on-device-decisioning-a829abd83f2c)   | 1-Dec-2020 | Blog |Server-side Optimisation |   [Alex Bishop](https://www.linkedin.com/in/alex-bishop-90a59971/)       |
 | [Taking the Lead in Delivering Next-Gen Personalization](https://blog.adobe.com/en/publish/2019/11/19/taking-the-lead-in-delivering-next-gen-personalization.html)   | 11-Nov-2020 | Blog |Server-side Optimisation |   Adobe       |
@@ -23,4 +24,5 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 | [Adobe Target Personalisation Industry Insides Webinar Series - Retail](https://seminars.adobeconnect.com/p6vbv57c0r5x/?proto=true) | 21-May-2020 | Webinar | Industry specifc best practices | Adobe |
 | [Adobe Target Personalisation Industry Insides Webinar Series - Media, Publishing and Telecommunications](https://seminars.adobeconnect.com/pytpqtp8s1ca/?proto=true) | 14-May-2020 | Webinar | Industry specifc best practices | Adobe |
 | [Adobe Target Personalisation Industry Insides Webinar Series - Healthcare and Pharmacy](https://seminars.adobeconnect.com/patuyfyi8zvn/?proto=true) | 7-May-2020 | Webinar | Industry specifc best practices | Adobe |
+| [How to use the Adobe Target form composer in a Mobile App](https://alex-bishop010.medium.com/how-to-use-the-adobe-target-form-composer-in-a-mobile-app-c4457f60ca2f)   | 10-Mar-2020 | Blog |Mobile App Experience Optimisation |   [Alex Bishop](https://www.linkedin.com/in/alex-bishop-90a59971/)       |
 | [Analytics Demystified Adobe Target Profiles](https://analyticsdemystified.com/testing-and-optimization/profile-playbook-for-adobe-target/) | 18-Apr-2019 | Blog | Analytics Demystified Link explaining Profile scripts | [Brian Hawkins](https://www.linkedin.com/in/brianhawkins/) |
