@@ -8,6 +8,7 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
+| [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)   | | Adobe Experience League |Adobe Experience League |   Adobe       |
 | [Integrate Third-Party Data Into Adobe Target Using Data Providers](https://www.abhinavpuri.com/blog/target-data-providers/)   | 14-Mar-2021 | Blog |Data Integration with Adobe Target|   [Abhinav Puri](https://www.linkedin.com/in/appuriabhi/) |
 | [Adobe Target: Response Token and Debugging approach](https://medium.com/jayakrishnaap-digital-analytics-platform/adobe-target-response-token-and-debugging-approach-73d9fcc8cb56)   | 26-Feb-2021 | Blog |Response Tokens|   [Jayakrishnaa Pharthasarathy](https://www.linkedin.com/in/jayakrishnaa-parthasarathy-60797111a/) |
 | [Adobe Target — On Device Decisioning](https://alex-bishop010.medium.com/adobe-target-on-device-decisioning-a829abd83f2c)   | 1-Dec-2020 | Blog |Server-side Optimisation |   [Alex Bishop](https://www.linkedin.com/in/alex-bishop-90a59971/)       |
