@@ -9,6 +9,7 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)   | | Adobe Experience League |Adobe Experience League |   Adobe       |
+| [Creating a Personalisation Roadmap & Testing Plan](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)   | 2-June-2021 | Webinar | Personalisation Strategies |   Adobe       |
 | [Adobe Target Delivery API Tutorial Using Postman](https://spark.adobe.com/page/cLFVrapuKvUsq/)   | | Blog | Server-side Optimisation |   Adobe       |
 | [Adobe Target Skill Builder - Unlock the power of Social Proofing in realtime with Adobe Target and Adobe Analytics](https://seminars.adobeconnect.com/pwwe9iaun4cn/)     |  25-Mar-2021 |  Webinar | Data Integration with Adobe Target |  Adobe       |
 | [Integrate Third-Party Data Into Adobe Target Using Data Providers](https://www.abhinavpuri.com/blog/target-data-providers/)   | 14-Mar-2021 | Blog |Data Integration with Adobe Target|   [Abhinav Puri](https://www.linkedin.com/in/appuriabhi/) |
