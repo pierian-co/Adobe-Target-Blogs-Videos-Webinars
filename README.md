@@ -9,8 +9,9 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | | Adobe Experience League |Adobe Experience League |   Adobe       |
-| [Zero to Hero: Starting and Scaling a Personalization Program](https://video.tv.adobe.com/v/343983)   | 28-June-2022 | Webinar | Personalisation Strategies |   Heather Adkins (City National Bank SVP) and Kaitlin White (Adobe)       |
-| [Uncover High-Impact Optimization Opportunities](https://video.tv.adobe.com/v/343983)   | 16-June-2022 | Webinar | Personalisation Strategies |   Adobe (Drew Burns)       |
+| [Zero to Hero: Starting and Scaling a Personalization Program](https://video.tv.adobe.com/v/344437)   | 28-June-2022 | Webinar | Personalisation Strategies |   Heather Adkins (City National Bank SVP) and Kaitlin White (Adobe)       |
+| [Uncover High-Impact Optimization Opportunities](https://video.tv.adobe.com/v/343983)   | 16-June-2022 | Webinar | Personalisation Strategies |   Drew Burns (Adobe)       |
+| [Personalization with Precision: Adobe Analytics & Target](https://video.tv.adobe.com/v/343520)   | 2-June-2022 | Webinar | Adobe Target & Adobe Analytics together |    Jordan Ison (Adobe)       |
 | [Personalization Industry Insiders Series: Financial Services & Insurance](https://video.tv.adobe.com/v/343240)     |  24-May-2022 |  Webinar | Industry specifc best practices |  Adobe (Christopher Young and James Capasso)      |
 | [Personalization and the Changing Landscape in Retail](https://video.tv.adobe.com/v/343042)     |  19-May-2022 |  Webinar | Industry specifc best practices |  Adobe and Dick's (Shawn Wilkinson, Dick’s Sporting Goods eCommerce Program Manager and Brent Kostak)      |
 | [Creating a Personalisation Roadmap & Testing Plan](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)   | 2-June-2021 | Webinar | Personalisation Strategies |   Adobe       |
