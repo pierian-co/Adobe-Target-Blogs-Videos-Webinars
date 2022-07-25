@@ -14,6 +14,7 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 | [Personalization with Precision: Adobe Analytics & Target](https://video.tv.adobe.com/v/343520)   | 2-June-2022 | Webinar | Adobe Target & Adobe Analytics together |    Jordan Ison (Adobe)       |
 | [Personalization Industry Insiders Series: Financial Services & Insurance](https://video.tv.adobe.com/v/343240)     |  24-May-2022 |  Webinar | Industry specifc best practices |  Adobe (Christopher Young and James Capasso)      |
 | [Personalization and the Changing Landscape in Retail](https://video.tv.adobe.com/v/343042)     |  19-May-2022 |  Webinar | Industry specifc best practices |  Adobe and Dick's (Shawn Wilkinson, Dick’s Sporting Goods eCommerce Program Manager and Brent Kostak)      |
+| [Real-Time Personalization with Adobe Target](https://video.tv.adobe.com/v/342614)     |  28-Apr-2022 |  Webinar | Personalisation Strategies |  Brent Kostak (Adobe)      |
 | [Creating a Personalisation Roadmap & Testing Plan](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)   | 2-June-2021 | Webinar | Personalisation Strategies |   Adobe       |
 | [Adobe Target Delivery API Tutorial Using Postman](https://spark.adobe.com/page/cLFVrapuKvUsq/)   | | Blog | Server-side Optimisation |   Adobe       |
 | [Adobe Target Skill Builder - Unlock the power of Social Proofing in realtime with Adobe Target and Adobe Analytics](https://seminars.adobeconnect.com/pwwe9iaun4cn/)     |  25-Mar-2021 |  Webinar | Data Integration with Adobe Target |  Adobe       |
