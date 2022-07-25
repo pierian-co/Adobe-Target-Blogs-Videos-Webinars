@@ -8,7 +8,7 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
-| [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target {:target="\_blank"})   | | Adobe Experience League |Adobe Experience League |   Adobe       |
+| [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target){target="_blank"}   | | Adobe Experience League |Adobe Experience League |   Adobe       |
 | [Uncover High-Impact Optimization Opportunities](https://video.tv.adobe.com/v/343983)   | 16-June-2022 | Webinar | Personalisation Strategies |   Adobe (Drew Burns)       |
 | [Personalization Industry Insiders Series: Financial Services & Insurance](https://video.tv.adobe.com/v/343240)     |  24-May-2022 |  Webinar | Industry specifc best practices |  Adobe (Christopher Young and James Capasso)      |
 | [Creating a Personalisation Roadmap & Testing Plan](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)   | 2-June-2021 | Webinar | Personalisation Strategies |   Adobe       |
