@@ -9,6 +9,7 @@ As an attempt to make these webinars, articles and blogs easily accessible to al
 | Title-URL      | Date | Category  |Related to | Organiser/Author |
 | -----------   | -----------      | -----------      | -----------      |--------- |
 | [Adobe Target content library](https://experienceleague.adobe.com/?lang=en#recommended/solutions/target)  | | Adobe Experience League |Adobe Experience League |   Adobe       |
+| [Adobe Target Profile Scripts Explained](https://albertacg.com/adobe-target-profile-scripts-explained/)   | 26-Jul-2022 | Blog |Profile Scripts |   [Matthew Ravlich](https://www.linkedin.com/in/mattravlich/)       |
 | [Zero to Hero: Starting and Scaling a Personalization Program](https://video.tv.adobe.com/v/344437)   | 28-June-2022 | Webinar | Personalisation Strategies |   Heather Adkins (City National Bank SVP) and Kaitlin White (Adobe)       |
 | [Uncover High-Impact Optimization Opportunities](https://video.tv.adobe.com/v/343983)   | 16-June-2022 | Webinar | Personalisation Strategies |   Drew Burns (Adobe)       |
 | [Personalization with Precision: Adobe Analytics & Target](https://video.tv.adobe.com/v/343520)   | 2-June-2022 | Webinar | Adobe Target & Adobe Analytics together |    Jordan Ison (Adobe)       |
